@@ -3,6 +3,7 @@ layout: page
 title: projects
 permalink: /projects/
 description: "This page contains a mixture of projects I have worked on during University, and my co-op work terms. There is a combination of individual and collaborative work."
+nav: true
 nav_order: 2
 display_categories: [academic, work]
 horizontal: false
