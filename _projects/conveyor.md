@@ -11,7 +11,7 @@ An ongoing project developing a color-based sorting mechanism for industrial sim
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/conveyorfull.png" title="Demonstration setup" class="img-fluid rounded z-depth-1 mx-auto d-block" max-width="600px" %}
+        {% include figure.liquid loading="eager" path="assets/img/conveyorfull.png" title="Demonstration setup" class="img-fluid rounded z-depth-1 mx-auto d-block" width="600" max-width="600px" %}
     </div>
 </div>
 <div class="caption">
