@@ -4,7 +4,7 @@ cv:
   email: hunterjensen13@uvic.ca
   location: Victoria, BC
   image: ""
-  summary: A 5<sup>th</sup>Electrical Engineering Student at the University of Victoria with specializations in Digital and Embedded Systems, Mechatronics, and Computer Systems. I have a strong passion for learning and applying my knowledge to solve real-world problems. I am currently seeking opportunities to gain practical experience in the field of electrical engineering and contribute to innovative projects.
+  summary: A 5<sup>th</sup> year Electrical Engineering Student at the University of Victoria with specializations in Digital and Embedded Systems, Mechatronics, and Computer Systems. I have a strong passion for learning and applying my knowledge to solve real-world problems. I am currently seeking opportunities to gain practical experience in the field of electrical engineering and contribute to innovative projects.
 
   social_networks:
     - network: X
@@ -30,10 +30,10 @@ cv:
         studyType: BEng
         start_date: 2021
         end_date: 2026
-        Specializations: "Digital and Embedded Systems, Mechatronics, Computer Systems"
         score: ""
         #courses: "Theory of Relativity"
         highlights:
+          - "Specializations: Digital and Embedded Systems, Mechatronics, Computer Systems"
           - University of Victoria Excellence Scholarship ($24,000)
           - DAAD Rise Germany Scholarship (2025)
 
@@ -48,12 +48,12 @@ cv:
         #  - Description 2.
 
     Experience:
-      - company: Institute for Advanced Study, Princeton University
-        position: Professor of Theoretical Physics
-        location: Princeton University, NJ
-        start_date: 1933
-        end_date: 1955
-        summary: Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.
+      - company: Laboratory for Intelligent Embedded Systems - Karlsruhe University of Applied Sciences
+        position: DAAD RISE Germany Research Intern
+        location: Karlsruhe, Germany
+        start_date: May 2025
+        end_date: August 2025
+        project: "LAIsens: Low power optical sensing system for Leaf Area Index (LAI) measurement using a dynamically adjustale field of view." 
         highlights:
           - Relativity
           - Description 2.
