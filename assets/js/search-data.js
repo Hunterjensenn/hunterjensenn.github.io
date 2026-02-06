@@ -417,21 +417,6 @@ ninja.data = [{
           description: "a project that redirects to another website",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
-            },},{id: "projects-pwm-signal-generation-and-monitoring-system",
-          title: 'PWM Signal Generation and Monitoring System',
-          description: "",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/4_project/";
-            },},{id: "projects-software-defined-radio-project",
-          title: 'Software Defined Radio Project',
-          description: "a project with a background image",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/5_project/";
-            },},{id: "projects-project-6",
-          title: 'project 6',
-          description: "a project with no image",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/6_project/";
             },},{id: "projects-project-7",
           title: 'project 7',
           description: "with background image",
@@ -444,9 +429,24 @@ ninja.data = [{
               window.location.href = "/projects/8_project/";
             },},{id: "projects-conveyor-sorting-system",
           title: 'Conveyor Sorting System',
-          description: "another project with an image 🎉",
+          description: "",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/9_project/";
+              window.location.href = "/projects/conveyor/";
+            },},{id: "projects-pwm-signal-generation-and-monitoring-system",
+          title: 'PWM Signal Generation and Monitoring System',
+          description: "",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/ece355/";
+            },},{id: "projects-software-defined-radio-project",
+          title: 'Software Defined Radio Project',
+          description: "a project with a background image",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/sdr/";
+            },},{id: "projects-traffic-light-system",
+          title: 'Traffic Light System',
+          description: "",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/tls/";
             },},{id: "teachings-data-science-fundamentals",
           title: 'Data Science Fundamentals',
           description: "This course covers the foundational aspects of data science, including data collection, cleaning, analysis, and visualization. Students will learn practical skills for working with real-world datasets.",
