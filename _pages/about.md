@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: 5<sup>th</sup> year Electrical Engineering student at the University of Victoria | hunterjensen13@uvic.ca
 
 profile:
   align: right
