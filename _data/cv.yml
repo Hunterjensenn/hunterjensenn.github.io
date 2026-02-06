@@ -1,10 +1,10 @@
 cv:
   name: Hunter Jensen
-  label: 5<sub>th</sub>Electrical Engineering Student
+  label: 5<sup>th</sup>Electrical Engineering Student
   email: hunterjensen13@uvic.ca
   location: Victoria, BC
   image: ""
-  summary: A 5<sub>th</sub>Electrical Engineering Student at the University of Victoria with specializations in Digital and Embedded Systems, Mechatronics, and Computer Architecture. I have a strong passion for learning and applying my knowledge to solve real-world problems. I am currently seeking opportunities to gain practical experience in the field of electrical engineering and contribute to innovative projects.
+  summary: A 5<sup>th</sup>Electrical Engineering Student at the University of Victoria with specializations in Digital and Embedded Systems, Mechatronics, and Computer Systems. I have a strong passion for learning and applying my knowledge to solve real-world problems. I am currently seeking opportunities to gain practical experience in the field of electrical engineering and contribute to innovative projects.
 
   social_networks:
     - network: X
@@ -15,36 +15,37 @@ cv:
       username: example
 
   address:
-    street: 2712 Broadway St
-    city: San Francisco
-    region: California
-    postalCode: CA 94115
-    countryCode: US
+    street: 
+    city: Victoria
+    region: British Columbia
+    postalCode: 
+    countryCode: CA
 
   sections:
     Education:
-      - institution: University of Zurich
-        location: Zurich, Switzerland
-        url: https://www.uzh.ch/
-        area: Physics
-        studyType: PhD
-        start_date: 1900
-        end_date: 1905
+      - institution: University of Victoria
+        location: Victoria, BC
+        url: https://www.uvic.ca/
+        area: Electrical Engineering
+        studyType: BEng
+        start_date: 2021
+        end_date: 2026
+        Specializations: "Digital and Embedded Systems, Mechatronics, Computer Systems"
         score: ""
-        courses: "Theory of Relativity"
+        #courses: "Theory of Relativity"
         highlights:
-          - Description 1.
-          - Description 2.
+          - University of Victoria Excellence Scholarship ($24,000)
+          - DAAD Rise Germany Scholarship (2025)
 
-      - institution: Eidgenössische Technische Hochschule
-        location: Zurich, Switzerland
-        area: Physics
-        studyType: Federal teaching diploma
-        start_date: 1896
-        end_date: 1900
-        highlights:
-          - Description 1.
-          - Description 2.
+      - #institution: Eidgenössische Technische Hochschule
+        #location: Zurich, Switzerland
+        #area: Physics
+        #studyType: Federal teaching diploma
+        #start_date: 1896
+        #end_date: 1900
+        #highlights:
+        #  - Description 1.
+        #  - Description 2.
 
     Experience:
       - company: Institute for Advanced Study, Princeton University
