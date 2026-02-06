@@ -1,17 +1,17 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Hunter Jensen",
+    "label": "5<sub>th</sub>Electrical Engineering Student",
     "image": "",
-    "email": "einstein@example.com",
-    "phone": "(912) 123-4567",
+    "email": "hunterjensen13@uvic.ca",
+    "phone": "(778) 700 1077",
     "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "",
+      "postalCode": "",
+      "city": "Victoria",
+      "countryCode": "Canada",
+      "region": "British Columbia"
     },
     "profiles": []
   },
