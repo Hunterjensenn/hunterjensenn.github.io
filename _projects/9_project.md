@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 9
+title: Conveyor Sorting System
 description: another project with an image 🎉
-img: assets/img/6.jpg
+img: assets/img/conveyor.png
 importance: 4
-category: fun
+category: academic
 ---
 
 Every project has a beautiful feature showcase page.
