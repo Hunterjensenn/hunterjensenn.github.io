@@ -7,7 +7,7 @@ importance: 2
 category: academic
 ---
 
-{% include video.liquid path="assets/videos/TLS.mp4" class="img-fluid rounded z-depth-1 mx-auto d-block" width="800" controls="true"  %}
+{% include video.liquid path="assets/video/TLS.mp4" class="img-fluid rounded z-depth-1 mx-auto d-block" width="800" controls="true"  %}
 
 Every project has a beautiful feature showcase page.
 It's easy to include images in a flexible 3-column grid format.
