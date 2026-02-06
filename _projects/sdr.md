@@ -3,7 +3,7 @@ layout: page
 title: Software Defined Radio Project
 description: a project with a background image
 img: assets/img/SDR_1.jpg
-importance: 3
+importance: 4
 category: academic
 ---
 

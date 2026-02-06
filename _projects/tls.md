@@ -1,8 +1,8 @@
 ---
 layout: page
-title: PWM Signal Generation and Monitoring System 
+title: Traffic Light System
 description: 
-img: /assets/img/355_blkdiagram.png
+img: /assets/img/traffic_light.jpg
 importance: 2
 category: academic
 ---

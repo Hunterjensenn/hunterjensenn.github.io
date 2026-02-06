@@ -1,9 +1,9 @@
 ---
 layout: page
 title: Conveyor Sorting System
-description: another project with an image 🎉
+description: 
 img: assets/img/conveyor.png
-importance: 4
+importance: 1
 category: academic
 ---
 
