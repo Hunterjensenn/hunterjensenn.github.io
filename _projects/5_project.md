@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 5
+title: Software Defined Radio Project
 description: a project with a background image
-img: assets/img/1.jpg
+img: assets/img/SDR_1.jpg
 importance: 3
-category: fun
+category: academic
 ---
 
 Every project has a beautiful feature showcase page.

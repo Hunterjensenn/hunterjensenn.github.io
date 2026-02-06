@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 4
-description: another without an image
-img:
-importance: 3
-category: fun
+title: PWM Signal Generation and Monitoring System 
+description: 
+img: /assets/img/355_blkdiagram.png
+importance: 2
+category: academic
 ---
 
 Every project has a beautiful feature showcase page.
