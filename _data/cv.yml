@@ -51,7 +51,7 @@ cv:
       - company: Laboratory for Intelligent Embedded Systems - Karlsruhe University of Applied Sciences
         position: DAAD RISE Germany Research Intern
         location: Karlsruhe, Germany
-        start_date: May 2025
+        start_date: May
         end_date: August 2025
         project: "LAIsens: Low power optical sensing system for Leaf Area Index (LAI) measurement using a dynamically adjustale field of view." 
         highlights:
