@@ -9,6 +9,7 @@ category: academic
 
 {% include video.liquid path="assets/video/TLS.mp4" class="img-fluid rounded z-depth-1 mx-auto d-block" width="800" controls="true"  %}
 
+This is an ongoing project for ECE 455 - Real Time Computer Systems at UVIC. The objective of the project is to implement the example shown in the above video on a breadboard with LEDs, shift registers, and the STM32F4Discovery board. 
 Every project has a beautiful feature showcase page.
 It's easy to include images in a flexible 3-column grid format.
 Make your photos 1/3, 2/3, or full width.
