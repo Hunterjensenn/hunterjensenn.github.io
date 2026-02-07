@@ -13,9 +13,6 @@ This is an ongoing project for MECH 458 - Mechatronics at UVIC. The project obje
     <div class="col-md-6 mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/conveyorfull.png" title="Demonstration setup" class="img-fluid rounded z-depth-1 mx-auto d-block" width="600" max-width="600px" %}
     </div>
-    <div class="col-md-6 mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/mech_model.png" title="System model" class="img-fluid rounded z-depth-1 mx-auto d-block" width="600" max-width="600px" %}
-    </div>
 </div>
 <div class="caption">
     In lab conveyor belt demonstration setup.
