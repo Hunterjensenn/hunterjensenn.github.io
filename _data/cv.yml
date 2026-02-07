@@ -27,7 +27,7 @@ cv:
         location: Victoria, BC
         url: https://www.uvic.ca/
         area: Electrical Engineering
-        studyType: BEng
+        studyType: Bachelor of Engineering
         start_date: 2021
         end_date: 2026
         score: ""
@@ -37,16 +37,6 @@ cv:
           - University of Victoria Excellence Scholarship ($24,000)
           - DAAD Rise Germany Scholarship (2025)
 
-      - #institution: Eidgenössische Technische Hochschule
-        #location: Zurich, Switzerland
-        #area: Physics
-        #studyType: Federal teaching diploma
-        #start_date: 1896
-        #end_date: 1900
-        #highlights:
-        #  - Description 1.
-        #  - Description 2.
-
     Experience:
       - company: Laboratory for Intelligent Embedded Systems - Karlsruhe University of Applied Sciences
         position: DAAD RISE Germany Research Intern
@@ -55,87 +45,39 @@ cv:
         end_date: August 2025
         project: "LAIsens: Low power optical sensing system for Leaf Area Index (LAI) measurement using a dynamically adjustale field of view." 
         highlights:
-          - Relativity
-          - Description 2.
+          - Selected for the prestigious DAAD RISE program to design a low-power optical measurement system.
+          - Researched and designed a multi-sheet hierarchical schematic in KiCAD incorporating an MSP430 microcontroller and Texas Instruments DLP2000 digital micromirror device (DMD).
+          - Designed a 5V USB-c power stage utilizing buck regulators and LDOs to generate 3.3V, 1.8V and 1.0V rails for MCU logic, SDRAM, and peripheral sensors.
+          - Integrated the AS7341 multispectral and MCP9808 temperature sensors via I2C for environmental data collection, and a LAMBDA62 LoRa transceiver for long-range wireless communication.
+          - Developed a dual-master SPI bus topology to allow the MCU to program the DMD controller's SPI flash without interrupting active operations.
+          - Performed detailed selection of ICs, regulators, and passive components balancing performance and ultra-low-power operation.
 
-      - company: California Institute of Technology
-        position: Visiting Professor
-        location: Pasadena, California, US
-        start_date: 1933
-        end_date: 1933
+
+      - company: Zetron, a Codan Company
+        position: Hardware Designer Co-op
+        location: Victoria, BC
+        start_date: May
+        end_date: Dec. 2024
         highlights:
-          - Description 1.
-          - Description 2.
+          - Built and optimized an automation test rack for remote testing of Zetron’s site manager units.
+          - Operated lab equipment including network analyzers, spectrum analyzers, and radio test sets to successfully test and document various specifications on Zetron’s MT-4 transmitters/receivers.
+          - Supported the RF design engineers with component selection, soldering rework, troubleshooting, and analysis of failed PCB’s.
+          - Initiated automation test rack design for Zetron’s MT-5 transmitters/receivers by gathering information from key stakeholders, drafting detailed block diagrams, creating a custom cable for transmitter testing, drafting a schematic of the cable connector, and began a sophisticated switching and power supply schematic in Altium.
+          - Connected with international sales representatives to choose a new benchtop digital multimeter and environmental test chamber, ensuring alignment with hardware team specifications.
+          -  Participated in schematic and PCB layout reviews in Altium.
+          - 	Recognized as hardware team MVP for September for quick preparation of an automation rack for manufacturing team and meticulous documentation of commercial dart board testing.
+          -  	Conducted a detailed Bill of Materials review for the London Underground Train Radio project, verifying parts against Zetron’s inventory.
 
-      - company: Kaiser Wilhelm Institute for Physics
-        position: Director
-        location: Berlin, Germany
-        start_date: 1917
-        end_date: 1933
-
-      - company: Karl-Ferdinand University
-        position: Professor of Theoretical Physics
-        location: Prague, Czechoslovakia
-        start_date: 1911
-        end_date: 1917
-
-      - company: University of Zurich
-        position: Associate Professor of Theoretical Physics
-        location: Zurich, Switzerland
-        start_date: 1909
-        end_date: 1911
-
-    Volunteer:
-      - company: People's Climate March
-        position: Lead Organizer
-        location: Zurich, Switzerland
-        start_date: 2014-04-01
-        end_date: 2015-07-01
-        summary: Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.
+      - company: Department of National Defence
+        position: Combat Systems co-op Student
+        location: Victoria, BC
+        start_date: Sept.
+        end_date: Dec. 2023 
         highlights:
-          - "Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march."
-          - "Men of the year 2014 by Time magazine"
-
-    Awards:
-      - title: Nobel Prize in Physics
-        authors:
-          - "Royal Swedish Academy of Sciences"
-        date: 1921-11-01
-        awarder: Royal Swedish Academy of Sciences
-        url: https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/
-        summary: The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'
-
-      - title: Max Planck Medal
-        authors:
-          - "German Physical Society"
-        date: 2029
-        awarder: German Physical Society
-        summary: Awarded for outstanding scientific achievement
-
-    Publications:
-      - title: Zur Elektrodynamik bewegter Körper
-        authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1905-06-30
-        url: https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies
-        summary: It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source.
-
-      - title: Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt
-        authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1905-03-18
-        url: https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt
-        summary: In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921.
-
-      - title: Die Grundlage der allgemeinen Relativitätstheorie
-        authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1916-03-20
-        url: https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie
-        summary: The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914).
+          -	Developed an intensive 400+ page troubleshooting manual for an electronic warfare detection system on board the Halifax class frigates in the Royal Canadian Navy.
+          - Solved complex faults utilizing hands on troubleshooting with RF tools such as spectrum analyzers in addition to analyzing schematics and researching possible causes.
+          -	Documented comprehensive solutions to faults within the electronic warfare detection system and received praise from numerous section heads during end-of-term presentation. 
+          - Communicated expertly with two other co-op students and an electronic technologist to manage the large project scope including a near 500-page document in Microsoft Word. 
 
     Skills:
       - name: Physics
@@ -143,12 +85,12 @@ cv:
         icon: fa-solid fa-hashtag
         keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
 
-    Languages:
-      - name: German
-        summary: "Native speaker"
-
-      - name: English
-        summary: "Fluent"
+    #Languages:
+     # - name: German
+     #   summary: "Native speaker"
+#
+     # - name: English
+     #   summary: "Fluent"
 
     Interests:
       - name: Physics
@@ -156,19 +98,9 @@ cv:
         keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
 
     Certificates:
-      - name: Machine Learning
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-location-dot
-
-      - name: Quantum Computing
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-tag
-
-      - name: Quantum Information
-        date: 2018-01-01
-        issuer: Stanford University
+      - name: Certificate of Profiency in Amateur Radio - Basic Qualification with Honours
+        date: 2025
+        issuer: ISED Canada
         icon: fa-solid fa-envelope
 
     Projects:
@@ -180,11 +112,11 @@ cv:
         start_date: 2018-01-01
         end_date: 2018-01-01
 
-    References:
-      - name: Professor John Doe
-        icon: fa-solid fa-laptop
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
+    #References:
+      #- name: Professor John Doe
+     #   icon: fa-solid fa-laptop
+       # reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
 
-      - name: Professor Jane Smith
-        icon: fa-solid fa-thumbtack
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
+      #- name: Professor Jane Smith
+        #icon: fa-solid fa-thumbtack
+       # reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
