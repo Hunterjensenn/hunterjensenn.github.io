@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Conveyor Sorting System
-description: 
+description: An ongoing mechatronics course project developed in C on an ATmega2560 microcontroller.
 img: assets/img/conveyor.png
 importance: 1
 category: academic
@@ -20,4 +20,4 @@ An ongoing project developing a color-based sorting mechanism for industrial sim
 
 # Implementation
 **Firmware**: Written **strictly in C** to ensure real-time performance and direct register-level hardware control on the **ATmega2560**.
-**Hardware Interfacing**: Developed custom drivers for optical sensors to detect object characteristics and implemented logic to coordinate motor actuator timing for precise sorting.
+**Hardware Interfacing**: Developing custom drivers for optical sensors to detect object characteristics and implemented logic to coordinate motor actuator timing for precise sorting.
