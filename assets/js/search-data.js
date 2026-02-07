@@ -30,7 +30,7 @@ ninja.data = [{
               window.location.href = "/projects/conveyor/";
             },},{id: "projects-pwm-signal-generation-and-monitoring-system",
           title: 'PWM Signal Generation and Monitoring System',
-          description: "",
+          description: "An embedded systems project in C on an STM32F0Discovery board.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/ece355/";
             },},{id: "projects-software-defined-radio-project",
