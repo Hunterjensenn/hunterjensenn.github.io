@@ -112,6 +112,10 @@ cv:
         start_date: 2018-01-01
         end_date: 2018-01-01
 
+  projects_note:
+    text: "See full projects page"
+    url: "/projects/"
+
     #References:
       #- name: Professor John Doe
      #   icon: fa-solid fa-laptop

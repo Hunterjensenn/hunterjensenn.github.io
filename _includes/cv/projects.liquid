@@ -29,3 +29,9 @@
     </li>
   {% endfor %}
 </ul>
+{% comment %} Optional short note linking to the full projects page (RenderCV or JSONResume) {% endcomment %}
+{% if cv and cv.projects_note %}
+  <p class="mt-2">{{ "[" | append: cv.projects_note.text | append: "](" | append: cv.projects_note.url | append: ")" | markdownify }}</p>
+{% elsif site.data.resume and site.data.resume.projects_note %}
+  <p class="mt-2">{{ "[" | append: site.data.resume.projects_note.text | append: "](" | append: site.data.resume.projects_note.url | append: ")" | markdownify }}</p>
+{% endif %}
