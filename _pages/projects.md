@@ -6,7 +6,7 @@ description: "This page contains a mixture of projects I have worked on during U
 nav: true
 nav_order: 2
 display_categories: [academic, ]
-horizontal: false
+horizontal: true
 ---
 
 <!-- pages/projects.md -->
