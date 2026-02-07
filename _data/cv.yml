@@ -41,8 +41,8 @@ cv:
       - company: Laboratory for Intelligent Embedded Systems - Karlsruhe University of Applied Sciences
         position: DAAD RISE Germany Research Intern
         location: Karlsruhe, Germany
-        start_date: May
-        end_date: August 2025
+        start_date: 2025-05
+        end_date: 2025-08
         project: "LAIsens: Low power optical sensing system for Leaf Area Index (LAI) measurement using a dynamically adjustale field of view." 
         highlights:
           - Selected for the prestigious DAAD RISE program to design a low-power optical measurement system.
@@ -56,8 +56,8 @@ cv:
       - company: Zetron, a Codan Company
         position: Hardware Designer Co-op
         location: Victoria, BC
-        start_date: May
-        end_date: Dec. 2024
+        start_date: 2024-05
+        end_date: 2024-12
         highlights:
           - Built and optimized an automation test rack for remote testing of Zetrons site manager units.
           - Operated lab equipment including network analyzers, spectrum analyzers, and radio test sets to successfully test and document various specifications on Zetrons MT-4 transmitters/receivers.
@@ -71,8 +71,8 @@ cv:
       - company: Department of National Defence
         position: Combat Systems co-op Student
         location: Victoria, BC
-        start_date: Sept.
-        end_date: Dec. 2023 
+        start_date: 2023-09
+        end_date: 2023-12
         highlights:
           - Developed an intensive 400+ page troubleshooting manual for an electronic warfare detection system on board the Halifax class frigates in the Royal Canadian Navy.
           - Solved complex faults utilizing hands on troubleshooting with RF tools such as spectrum analyzers in addition to analyzing schematics and researching possible causes.
@@ -104,16 +104,8 @@ cv:
         icon: fa-solid fa-envelope
 
     Projects:
-      - name: Quantum Computing
-        summary: Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.
-        highlights:
-          - Quantum Teleportation
-          - Quantum Cryptography
-        start_date: 2018-01-01
-        end_date: 2018-01-01
-
   projects_note:
-    text: "See full projects page"
+    text: "Check out all of my projects on the projects page"
     url: "/projects/"
 
     #References:
