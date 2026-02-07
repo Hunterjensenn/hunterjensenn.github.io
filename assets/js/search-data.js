@@ -25,7 +25,7 @@ ninja.data = [{
           },
         },{id: "projects-conveyor-sorting-system",
           title: 'Conveyor Sorting System',
-          description: "",
+          description: "An ongoing mechatronics course project developed in C on an ATmega2560 microcontroller.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/conveyor/";
             },},{id: "projects-pwm-signal-generation-and-monitoring-system",
