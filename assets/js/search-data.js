@@ -65,13 +65,6 @@ ninja.data = [{
           window.open("https://www.linkedin.com/in/hunter-jensen-724274204", "_blank");
         },
       },{
-        id: 'social-github',
-        title: 'GitHub',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://github.com/hunterjensenn", "_blank");
-        },
-      },{
       id: 'light-theme',
       title: 'Change theme to light',
       description: 'Change the theme of the site to Light',
