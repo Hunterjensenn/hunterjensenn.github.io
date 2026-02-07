@@ -27,6 +27,6 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am an Electrical Engineering student at the [University of Victoria](https://www.uvic.ca). I am on track to achieve three specializations in Digital and Embedded Systems, Mechatronics, and Computer Systems. I am passionate about utilizing my academic knowledge on real projects. I have had the opportunity to gain hands-on experience across mutliple co-op work terms, including my most recent internship at the Karlsruhe Univeristy of Applied Sciences in Germany as a DAAD RISE Germany Scholarship recipient. 
+I am an Electrical Engineering student at the [University of Victoria](https://www.uvic.ca). I am on track to achieve three specializations in Digital and Embedded Systems, Mechatronics, and Computer Systems. I am passionate about utilizing my academic knowledge on real projects. I have had the opportunity to gain hands-on experience across mutliple co-op work terms, including my most recent internship at the Karlsruhe University of Applied Sciences in Germany as a DAAD RISE Germany Scholarship recipient. 
 
 Outside of school, I am passionate about hockey, having played competitively on Vancouver Island until 2023. I still enjoy playing recreationally, and enjoy other sports such as ball hockey, volleyball, and tennis. Addtionally, I love the outdoors and activites including hiking, camping, and backpacking. 
