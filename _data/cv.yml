@@ -104,7 +104,7 @@ cv:
         icon: fa-solid fa-envelope
 
     Projects:
-      - name:
+    
   projects_note:
     text: "Check out all of my projects on the projects page"
     url: "/projects/"
