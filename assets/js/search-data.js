@@ -35,12 +35,12 @@ ninja.data = [{
               window.location.href = "/projects/ece355/";
             },},{id: "projects-software-defined-radio-project",
           title: 'Software Defined Radio Project',
-          description: "a project with a background image",
+          description: "An RTL-SDR project implemented with a Raspberry Pi 5.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/sdr/";
             },},{id: "projects-traffic-light-system",
           title: 'Traffic Light System',
-          description: "",
+          description: "A real-time project simulating a traffic light system executed on an STM32F4Discovery board.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/tls/";
             },},{
