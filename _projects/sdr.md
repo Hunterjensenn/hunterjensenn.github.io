@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Software Defined Radio Project
-description: a project with a background image
+description: An RTL-SDR project implemented with a Raspberry Pi 5.
 img: assets/img/SDR_1.jpg
 importance: 4
 category: academic

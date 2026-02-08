@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Traffic Light System
-description: 
+description: A real-time project simulating a traffic light system executed on an STM32F4Discovery board.
 img: /assets/img/traffic_light.jpg
 importance: 2
 category: academic
